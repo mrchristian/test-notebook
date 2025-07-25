@@ -1,6 +1,6 @@
 # \<Your Notebook Title\>
 
-DOI Zenodo badge: \<Add your DOI Zenodo badge code here. This will need to be added after the first Zenodo deposit.\>
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16414696.svg)](https://doi.org/10.5281/zenodo.16414696)
 
 Description: \<Add description\>
 
